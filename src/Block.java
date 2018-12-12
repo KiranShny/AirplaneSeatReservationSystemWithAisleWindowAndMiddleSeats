@@ -1,4 +1,4 @@
-package incture.kiran;
+package yourPackage;
 
 public class Block {
 	private int[][] block;
