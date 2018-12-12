@@ -1,4 +1,4 @@
-package incture.kiran;
+package yourPackage;
 
 import java.util.Scanner;
 
