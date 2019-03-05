@@ -25,11 +25,6 @@ public class Main {
 		{
 			System.err.println("Number of passengers are exceeding the maximum possible passengers onboard\nSome passengers may get left out");
 		}
-		try {
-			Thread.sleep(1000);
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
 		Arrange.makeArrangements();
 		Arrange.displayFirst();
 	}
